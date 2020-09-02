@@ -1,4 +1,4 @@
-# coursera.org_homework_go
+# coursera.org домашние задания в go
 hw1_tree_v.0.5
 
 Утилита tree.
