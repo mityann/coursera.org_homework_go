@@ -1,5 +1,5 @@
 # coursera.org_homework_go
-мои пробные работы в goland
+hw1_tree_v.0.5
 
 Утилита tree.
 Запуск go run main.go . -f
